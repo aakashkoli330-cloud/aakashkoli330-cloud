@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashkoli330-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=aakashkoli330-cloud&label=Profile%20views&color=0e75b6&style=flat" />
 </p>---
 
 🚀 About Me
@@ -27,6 +27,7 @@
 - 🛍️ Cart & Product System
 - ⚡ Backend with Node.js & Express
 - 🗄️ MongoDB Database
+- 🎨 Responsive and modern UI
 
 ---
 
