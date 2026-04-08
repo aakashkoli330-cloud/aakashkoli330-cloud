@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi 👋, I'm Aakash
 
-<!--
-**aakashkoli330-cloud/aakashkoli330-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer
 
-Here are some ideas to get you started:
+💻 Passionate about building modern web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔥 About Me
+
+- 🎓 BSc IT Student
+- 🌱 Currently learning Advanced Web Development
+- 💡 Building real-world projects like Unisole (E-commerce Website)
+- 🎯 Goal: Become a skilled Full Stack Developer
+
+---
+
+🛠️ Tech Stack
+
+- 💻 Frontend: HTML, CSS, JavaScript
+- ⚙️ Backend: Node.js, Express.js
+- 🗄️ Database: MongoDB
+- 🔧 Tools: Git, GitHub, VS Code
+
+---
+
+🚀 Projects
+
+🛒 Unisole – E-commerce Website
+
+- Full stack website with login, cart, and product system
+- Built using Node.js, Express, MongoDB
+- Responsive and interactive UI
+
+---
+
+📊 GitHub Stats
+
+"Aakash's GitHub stats" (https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true)
+
+---
+
+📫 Connect With Me
+
+- 📧 Email: aakashkoli330@gmail.com
+
+---
+
+⭐ Always learning, always building!
