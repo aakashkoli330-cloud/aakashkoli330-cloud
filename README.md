@@ -35,17 +35,12 @@
 
 ---
 
-📊 GitHub Stats
+## 📈 Profile Summary  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true" />
-</p>---
-
-🔥 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkoli330-cloud&layout=compact" />
-</p>---
+- 💻 Strong understanding of Full Stack Web Development  
+- ⚙️ Experience with Node.js, Express.js, MongoDB  
+- 🎯 Focused on building real-world scalable projects  
+- 🚀 Continuously improving problem-solving skills
 
 📫 Connect With Me
 
