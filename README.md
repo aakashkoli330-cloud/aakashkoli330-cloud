@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3><p align="center">
 <img src="https://komarev.com/ghpvc/?username=aakashkoli330-cloud&label=Profile%20views&color=0e75b6&style=flat" />
+</p><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Real+Projects;Future+Software+Engineer" />
 </p>---
 
 🚀 About Me
@@ -15,13 +17,15 @@
 
 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
 </p>---
 
 🚀 Projects
 
 🛒 Unisole – E-commerce Website
+
+🔗 Live Website: https://unisole.onrender.com
 
 - 🔐 User Authentication (Login/Register)
 - 🛍️ Cart & Product System
@@ -31,27 +35,28 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-<img src="https://streak-stats.demolab.com?user=aakashkoli330-cloud&theme=tokyonight" />
-</p>
+📊 GitHub Stats
 
-## 🔥 Most Used Languages  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkoli330-cloud&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true" />
+</p>---
 
-## 📫 Connect With Me  
-<p>
+🔥 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkoli330-cloud&layout=compact" />
+</p>---
+
+📫 Connect With Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/aakash-koli-4039742a8">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:aakashkoli330@gmail.com">
+</a><a href="mailto:aakashkoli330@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
-</p>
+</p>---
+
 ⚡ Fun Fact
 
 💡 I turn ideas into real-world web applications
