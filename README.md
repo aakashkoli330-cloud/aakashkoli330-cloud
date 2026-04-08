@@ -31,18 +31,16 @@
 
 ---
 
-📊 GitHub Stats
-
+## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashkoli330-cloud&theme=tokyonight" />
-</p>---
+<img src="https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=aakashkoli330-cloud&theme=tokyonight" />
+</p>
 
-🔥 Most Used Languages
-
+## 🔥 Most Used Languages  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkoli330-cloud&layout=compact&theme=tokyonight" />
-</p>---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkoli330-cloud&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ## 📫 Connect With Me  
 <p>
