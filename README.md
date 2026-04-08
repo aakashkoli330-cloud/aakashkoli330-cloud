@@ -44,13 +44,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkoli330-cloud&layout=compact&theme=tokyonight" />
 </p>---
 
-📫 Connect With Me
-
+## 📫 Connect With Me  
 <p>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>---
+<a href="https://www.linkedin.com/in/aakash-koli-4039742a8">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
+<a href="mailto:aakashkoli330@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 ⚡ Fun Fact
 
 💡 I turn ideas into real-world web applications
