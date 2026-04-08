@@ -1,49 +1,59 @@
-Hi 👋, I'm Aakash
+<h1 align="center">Hi 👋, I'm Aakash</h1>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakashkoli330-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>---
 
-🚀 Full Stack Web Developer
-
-💻 Passionate about building modern web applications
-
----
-
-🔥 About Me
+🚀 About Me
 
 - 🎓 BSc IT Student
+- 💻 Passionate about Full Stack Development
 - 🌱 Currently learning Advanced Web Development
-- 💡 Building real-world projects like Unisole (E-commerce Website)
-- 🎯 Goal: Become a skilled Full Stack Developer
+- 🛒 Building Unisole – E-commerce Website
+- 🎯 Goal: Crack top tech companies
 
 ---
 
 🛠️ Tech Stack
 
-- 💻 Frontend: HTML, CSS, JavaScript
-- ⚙️ Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB
-- 🔧 Tools: Git, GitHub, VS Code
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
+</p>---
 
 🚀 Projects
 
 🛒 Unisole – E-commerce Website
 
-- Full stack website with login, cart, and product system
-- Built using Node.js, Express, MongoDB
-- Responsive and interactive UI
+- 🔐 User Authentication (Login/Register)
+- 🛍️ Cart & Product System
+- ⚡ Backend with Node.js & Express
+- 🗄️ MongoDB Database
 
 ---
 
 📊 GitHub Stats
 
-"Aakash's GitHub stats" (https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aakashkoli330-cloud&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashkoli330-cloud&theme=tokyonight" />
+</p>---
 
----
+🔥 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkoli330-cloud&layout=compact&theme=tokyonight" />
+</p>---
 
 📫 Connect With Me
 
-- 📧 Email: aakashkoli330@gmail.com
+<p>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>---
+
+⚡ Fun Fact
+
+💡 I turn ideas into real-world web applications
 
 ---
 
-⭐ Always learning, always building!
+⭐ Keep Learning, Keep Building!
