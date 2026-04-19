@@ -20,7 +20,13 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" style="margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" style="margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" style="margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" style="margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" style="margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" style="margin: 0 6px;" />
+  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1697099245/logo/for_white_bg/cloudinary_icon_for_white_bg.svg" height="48" style="margin: 0 6px;" />
 </p>
 
 ---
