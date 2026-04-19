@@ -15,8 +15,6 @@
 - 🎓 BSc IT Student  
 - 💻 Passionate about Web Development  
 - 🌱 Currently learning Advanced Web Development  
-- 🛒 Building **Unisole – E-commerce Website**  
-- 🎯 Goal: Become a skilled Software Engineer  
 
 ---
 
@@ -29,15 +27,6 @@
 
 ## 🚀 Projects
 
-### 😄 Text2Emoji (Mini Project)
-🔗 Live: https://aakashkoli330-cloud.github.io/Text2Emoji/
-
-- Convert text into expressive emojis  
-- Mood-based emoji output  
-- Copy to clipboard  
-- Built using HTML, CSS, JavaScript  
-
----
 
 ### 🛒 Unisole – E-commerce Website
 🔗 Live: https://unisole.onrender.com
@@ -45,6 +34,16 @@
 - 🛍️ Product & Cart System  
 - 🔐 Login & Register pages  
 - 🎨 Responsive UI  
+
+---
+
+### 😄 Text2Emoji (Mini Project)
+🔗 Live: https://aakashkoli330-cloud.github.io/Text2Emoji/
+
+- Convert text into expressive emojis  
+- Mood-based emoji output  
+- Copy to clipboard  
+- Built using HTML, CSS, JavaScript  
 
 ---
 
