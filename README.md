@@ -1,60 +1,75 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3><p align="center">
+<h3 align="center">🚀 Web Developer | Building Real Projects</h3>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=aakashkoli330-cloud&label=Profile%20views&color=0e75b6&style=flat" />
-</p><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Real+Projects;Future+Software+Engineer" />
-</p>---
+</p>
 
-🚀 About Me
-
-- 🎓 BSc IT Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning Advanced Web Development
-- 🛒 Building Unisole – E-commerce Website
-- 🎯 Goal: Crack top tech companies
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Building+Real+Projects;Learning+Everyday;Future+Software+Engineer" />
+</p>
 
 ---
 
-🛠️ Tech Stack
+## 🚀 About Me
+- 🎓 BSc IT Student  
+- 💻 Passionate about Web Development  
+- 🌱 Currently learning Advanced Web Development  
+- 🛒 Building **Unisole – E-commerce Website**  
+- 🎯 Goal: Become a skilled Software Engineer  
 
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
-</p>---
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
-🚀 Projects
+---
 
-🛒 Unisole – E-commerce Website
+## 🚀 Projects
 
-🔗 Live Website: https://unisole.onrender.com
+### 😄 Text2Emoji (Mini Project)
+🔗 Live: https://aakashkoli330-cloud.github.io/Text2Emoji/
 
-- 🔐 User Authentication (Login/Register)
-- 🛍️ Cart & Product System
-- ⚡ Backend with Node.js & Express
-- 🗄️ MongoDB Database
-- 🎨 Responsive and modern UI
+- Convert text into expressive emojis  
+- Mood-based emoji output  
+- Copy to clipboard  
+- Built using HTML, CSS, JavaScript  
+
+---
+
+### 🛒 Unisole – E-commerce Website
+🔗 Live: https://unisole.onrender.com
+
+- 🛍️ Product & Cart System  
+- 🔐 Login & Register pages  
+- 🎨 Responsive UI  
 
 ---
 
 ## 📈 Profile Summary  
+- 💻 Strong understanding of core web technologies  
+- 🎯 Focused on building real-world projects  
+- 🚀 Continuously improving development skills  
 
-- 💻 Strong understanding of Full Stack Web Development  
-- ⚙️ Experience with Node.js, Express.js, MongoDB  
-- 🎯 Focused on building real-world scalable projects  
-- 🚀 Continuously improving problem-solving skills
+---
 
-📫 Connect With Me
-
+## 📫 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/aakash-koli-4039742a8">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a><a href="mailto:aakashkoli330@gmail.com">
+</a>
+
+<a href="mailto:aakashkoli330@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
-</p>---
+</p>
 
-⚡ Fun Fact
+---
 
-💡 I turn ideas into real-world web applications
+## ⚡ Fun Fact
+💡 I turn ideas into real-world web applications  
 
 ---
 
