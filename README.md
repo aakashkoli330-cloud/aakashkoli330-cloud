@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer+Building+Real+Projects+Learning+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Building+Real+Projects;Learning+Everyday" />
 </p>
 
 ---
@@ -26,7 +26,6 @@
 ---
 
 ## 🚀 Projects
-
 
 ### 🛒 Unisole – E-commerce Website
 🔗 Live: https://unisole.onrender.com
