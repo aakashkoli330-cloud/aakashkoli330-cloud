@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="48" style="margin: 0 6px;" />
   <img src="https://res.cloudinary.com/cloudinary/image/upload/v1697099245/logo/for_white_bg/cloudinary_icon_for_white_bg.svg" height="48" style="margin: 0 6px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" style="margin: 0 6px;" />
-  <img src="https://skillicons.dev/icons?i=render" height="48" style="margin: 0 6px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/render-1.svg" height="48" style="margin: 0 6px;" alt="Render" />
 </p>
 
 ---
