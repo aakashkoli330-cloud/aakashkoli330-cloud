@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="48" style="margin: 0 6px;" />
   <img src="https://skillicons.dev/icons?i=css" height="48" style="margin: 0 6px;" />
   <img src="https://skillicons.dev/icons?i=js" height="48" style="margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" style="margin: 0 6px;" />
   <img src="https://skillicons.dev/icons?i=git" height="48" style="margin: 0 6px;" />
   <img src="https://skillicons.dev/icons?i=github" height="48" style="margin: 0 6px;" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" style="margin: 0 6px;" />
