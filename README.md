@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BSc IT Student  
+- 🎓 BSc IT Graduate 
 - 💻 Passionate about Web Development  
 - 🌱 Currently learning Advanced Web Development  
 
