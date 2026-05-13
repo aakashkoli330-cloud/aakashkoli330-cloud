@@ -45,6 +45,14 @@
 
 ---
 
+### 🔲 QR Code Generator
+🔗 Live: https://qr-generator-e5x5.onrender.com
+
+- Enter text/URL → generate QR code instantly  
+- One-click PNG download  
+- Dark-themed responsive UI  
+- Built using Python, Flask, qrcode, deployed on Render  
+
 ### 😄 Text2Emoji (Mini Project)
 🔗 Live: https://aakashkoli330-cloud.github.io/Text2Emoji/
 
