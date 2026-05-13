@@ -11,14 +11,14 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 BSc IT Graduate 
-- 💻 Passionate about Web Development  
-- 🌱 Currently learning Advanced Web Development  
+##  About Me
+-  BSc IT Graduate 
+-  Passionate about Web Development  
+-  Currently learning Advanced Web Development  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="48" style="margin: 0 6px;" />
   <img src="https://skillicons.dev/icons?i=css" height="48" style="margin: 0 6px;" />
@@ -34,18 +34,18 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🛒 Unisole – E-commerce Website
+###  Unisole – E-commerce Website
 🔗 Live: https://unisole.onrender.com
 
-- 🛍️ Product & Cart System  
-- 🔐 Login & Register pages  
-- 🎨 Responsive UI  
+-  Product & Cart System  
+-  Login & Register pages  
+-  Responsive UI  
 
 ---
 
-### 🔲 QR Code Generator
+###  QR Code Generator
 🔗 Live: https://qr-generator-e5x5.onrender.com
 
 - Enter text/URL → generate QR code instantly  
@@ -53,7 +53,7 @@
 - Dark-themed responsive UI  
 - Built using Python, Flask, qrcode, deployed on Render  
 
-### 😄 Text2Emoji (Mini Project)
+###  Text2Emoji (Mini Project)
 🔗 Live: https://aakashkoli330-cloud.github.io/Text2Emoji/
 
 - Convert text into expressive emojis  
@@ -63,10 +63,10 @@
 
 ---
 
-## 📈 Profile Summary  
-- 💻 Strong understanding of core web technologies  
-- 🎯 Focused on building real-world projects  
-- 🚀 Continuously improving development skills  
+##  Profile Summary  
+-  Strong understanding of core web technologies  
+-  Focused on building real-world projects  
+-  Continuously improving development skills  
 
 ---
 
